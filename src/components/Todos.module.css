@@ -1,0 +1,19 @@
+.todolist{
+    
+    text-align: center;
+    margin-left: 43%;
+}
+
+.todo{
+    display: flex;
+    border: 1px solid black;
+    border-radius: 10px;
+    text-align: center;
+    width: 25%;
+    margin-top: 1%;
+}
+
+.sab{
+    border: 2px solid yellow;
+    height: 30px;
+}
